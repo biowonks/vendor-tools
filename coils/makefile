@@ -6,4 +6,4 @@ coils:
 
 clean:
 	rm -f ncoils *.o
-	rm ../bin/ncoils
+	rm -f ../bin/ncoils
