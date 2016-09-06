@@ -9,3 +9,7 @@ seg:
 .PHONY: coils
 coils:
 	make -C coils clean coils 2> /dev/null
+
+clean:
+	make -C seg clean
+	make -C coils clean

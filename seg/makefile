@@ -12,3 +12,4 @@ genwin.o: genwin.c genwin.h
 
 clean:
 	rm -f seg hiseg *.o
+	rm ../bin/seg
