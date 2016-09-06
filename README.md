@@ -1,6 +1,6 @@
 # BioWonks Vendor Tools
 
-This repository is a collection of freely available 3rd-party tools (source code) for use with the BioWonk projects.
+This repository is a collection of freely available 3rd-party tools (source code) for use with the BioWonks projects.
 
 ## Installation
 
